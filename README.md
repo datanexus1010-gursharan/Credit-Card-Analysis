@@ -15,8 +15,7 @@
 DATA UNDERSTANDING
 The dataset provides detailed information on credit card transactions along with associated customer details for a comprehensive analysis of spending behavior and transaction patterns over a specified period. The data is structured to enable in-depth insights into credit card usage, spending trends, and customer profiles.
  
-  
-  Source : Kaggle
+
   Datasets : 2
   File type : .csv
   Records : 10,293
